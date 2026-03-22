@@ -125,25 +125,3 @@ Add Chai classes directly to your HTML elements:
 ## Example
 
 Check out the included `index.html` for a complete landing page example showcasing various Chai classes in action.
-
-## Contributing
-
-To add new utility classes:
-
-1. Open `main.js`
-2. Add your new class to the `styles` object following the existing pattern
-3. Test your changes in the browser
-4. Submit a pull request
-
-## Browser Support
-
-Chai Tailwind CSS Framework works in all modern browsers that support ES6. For older browsers, consider using a transpiler like Babel.
-
-## License
-
-MIT License - feel free to use Chai in your projects!
-
-## Inspiration
-
-Inspired by [Tailwind CSS](https://tailwindcss.com/) but designed to be even simpler and more lightweight for small projects and prototypes.</content>
-<parameter name="filePath">README.md
